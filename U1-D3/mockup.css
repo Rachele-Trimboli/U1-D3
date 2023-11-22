@@ -1,0 +1,60 @@
+.container{
+    width: 100vw;
+}
+header img{
+    width: 150px;
+}
+.logo{
+text-align: center;
+}
+.topbar{
+    background-color: rgba(253,251,241,255);
+    border-top: 0.2em solid rgba(254,232,175,255);
+    text-align: center;
+}
+.topbar p{
+    font-weight: 700;
+    color: #165b5a;
+}
+main{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.intro{
+    text-align: center;
+}
+
+.focaccia{
+    text-align: center;
+
+}
+.photo p{
+    color: gray;
+    text-align: center;
+}
+.featured{
+    border-left: 1px solid orange;
+}
+.featured-2{
+    padding-left: 1em;
+}
+.featured-2 p{
+    font-weight: 600;
+    color: #b5460f;
+}
+.method li{
+    font-weight: 600;
+}
+footer{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+a{
+    color: #197a7a;
+}
+
+
